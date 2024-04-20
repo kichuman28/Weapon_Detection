@@ -19,3 +19,11 @@ GunGuard continuously analyzes video feeds in real-time, detecting any presence 
 
 GunGuard was trained using a custom dataset consisting of over 3000 images of handguns. The model was trained over 900 epochs to ensure robust performance and accurate detection of firearms.
 
+
+https://github.com/kichuman28/Weapon_Detection/assets/97717315/59e96fbe-d897-4779-8b75-6a1f035f1f4b
+
+![gun1](https://github.com/kichuman28/Weapon_Detection/assets/97717315/e76f09b6-fdef-4f5a-86ac-9a445a2e3737)
+
+![gun2](https://github.com/kichuman28/Weapon_Detection/assets/97717315/ee6a9ee8-b1ca-4796-92c7-1e4656dbb63d)
+
+
