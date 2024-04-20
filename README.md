@@ -1,6 +1,3 @@
-Sure, here's the revised description with that addition:
-
----
 
 # GunGuard: Real-time Gun Detection and Notification System
 
@@ -22,5 +19,3 @@ GunGuard continuously analyzes video feeds in real-time, detecting any presence 
 
 GunGuard was trained using a custom dataset consisting of over 3000 images of handguns. The model was trained over 900 epochs to ensure robust performance and accurate detection of firearms.
 
-
----
